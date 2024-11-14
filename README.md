@@ -84,5 +84,5 @@ The complete application could run on docker, you just need to build by using th
 
 
 ```bash
-    docker-compose up --build
+    docker-compose up --build -d
 ```
