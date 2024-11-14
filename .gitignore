@@ -1,0 +1,38 @@
+# Ignore for Node.js (React app)
+node_modules/
+build/
+dist/
+npm-debug.log
+yarn-error.log
+.env
+.DS_Store
+
+# Ignore for Java (Spring Boot app)
+target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+hs_err_pid*
+
+# Ignore IDE-specific files
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VSCode
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
